@@ -8,13 +8,16 @@ html {
 #info {
     line-height: 20px;
     background-color: #ffffff;
-    min-height: 800px;
-    width: 300px;
+    min-height: 700px;
+    width: 270px;
     float: left;
     padding: 5px;
 }
 
 body {
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #66CCFF;
     margin: 2em auto;
     padding: 2em 2em 4em;
     max-width: 1000px;
@@ -32,13 +35,17 @@ h1 {
     line-height: 1em;
 }
 
+img {
+    border-radius: 30px;
+}
+
 h2 {
-    font-size: 50px;
+    font-size: 45px;
     margin-bottom: 20px;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 a {
